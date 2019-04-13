@@ -1,0 +1,5 @@
+package com.genius.prueba.controller;
+
+public class HomeController {
+
+}

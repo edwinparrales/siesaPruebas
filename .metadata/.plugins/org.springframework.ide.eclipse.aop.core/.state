@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="demo"/>
+<aop-project name="WppWebConPaginaJsp"/>
+<aop-project name="bootstrap-with-springboot-master"/>
+<aop-project name="PruebaWebHtml"/>
+<aop-project name="GeniusProyect"/>
+<aop-project name="demo2"/>
+</aop-reference-model>
