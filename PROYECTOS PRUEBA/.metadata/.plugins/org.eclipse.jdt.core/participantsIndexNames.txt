@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\SIESA WEB\PROYECTOS PRUEBA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\109610484.index
+\com.demos\src\main\resources
+D:\SIESA WEB\PROYECTOS PRUEBA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\857119935.index
+\AppWebDemo\src\main\java
+D:\SIESA WEB\PROYECTOS PRUEBA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2102258097.index
+\SpringMVCHibernateCRUD\src\main\java

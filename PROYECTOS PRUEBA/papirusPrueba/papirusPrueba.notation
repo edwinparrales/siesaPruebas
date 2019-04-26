@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:nattable="http://www.eclipse.org/papyrus/nattable/model" xmlns:nattableaxis="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis" xmlns:nattableaxisprovider="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider" xmlns:nattablecelleditor="http://www.eclipse.org/papyrus/nattable/model/table/nattablecelleditor" xmlns:nattablestyle="http://www.eclipse.org/papyrus/nattable/model/table/nattablestyle" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xsi:schemaLocation="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis http://www.eclipse.org/papyrus/nattable/model#//nattableaxis http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model#//nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model/table/nattablecelleditor http://www.eclipse.org/papyrus/nattable/model#//nattablecelleditor http://www.eclipse.org/papyrus/nattable/model/table/nattablestyle http://www.eclipse.org/papyrus/nattable/model#//nattablestyle">
+  <notation:Diagram xmi:id="_7Fi9EF0xEemwgZvQ_kkdyA" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_7Fi9EV0xEemwgZvQ_kkdyA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_7Fi9El0xEemwgZvQ_kkdyA"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_7Fi9E10xEemwgZvQ_kkdyA" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner href="papirusPrueba.uml#_68tKIF0xEemwgZvQ_kkdyA"/>
+    </styles>
+    <element href="papirusPrueba.uml#_68tKIF0xEemwgZvQ_kkdyA"/>
+  </notation:Diagram>
+  <nattable:Table xmi:id="_7GexMF0xEemwgZvQ_kkdyA" name="Class Tree Table" currentRowAxisProvider="_7GfYQl0xEemwgZvQ_kkdyA" currentColumnAxisProvider="_7GfYQF0xEemwgZvQ_kkdyA" tableKindId="org.eclipse.papyrus.uml.table.classTree">
+    <eAnnotations xmi:id="_7GjpsF0xEemwgZvQ_kkdyA" source="http://www.eclipse.org/papyrus/infra/nattable/version">
+      <details xmi:id="_7GjpsV0xEemwgZvQ_kkdyA" key="version" value="1.3.0"/>
+    </eAnnotations>
+    <context href="papirusPrueba.uml#_68tKIF0xEemwgZvQ_kkdyA"/>
+    <owner href="papirusPrueba.uml#_68tKIF0xEemwgZvQ_kkdyA"/>
+    <tableConfiguration href="platform:/plugin/org.eclipse.papyrus.uml.nattable.clazz.config/configs/class_synchronized_tree.nattableconfiguration#PapyrusClassTreeTable_XMI_ID"/>
+    <columnAxisProvidersHistory xsi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_7GfYQF0xEemwgZvQ_kkdyA" description="This axis provider provides available columns according to the rows of the table (features of the object displayed on the other axis)" name="UML Feature axis provider">
+      <axis xsi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_7GfYQV0xEemwgZvQ_kkdyA">
+        <manager href="platform:/plugin/org.eclipse.papyrus.uml.nattable.clazz.config/configs/class_synchronized_tree.nattableconfiguration#_UJa7yDzQEei_1txcmoHe_A"/>
+        <element xsi:type="ecore:EAttribute" href="http://www.eclipse.org/uml2/5.0.0/UML#//NamedElement/name"/>
+      </axis>
+    </columnAxisProvidersHistory>
+    <rowAxisProvidersHistory xsi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_7GfYQl0xEemwgZvQ_kkdyA" description="This axis provider manages the rows, according to the wanted hierarchy" name="HierarchicalRowaAxisManager" disconnectSlave="true"/>
+  </nattable:Table>
+  <notation:Diagram xmi:id="_7HVFwF0xEemwgZvQ_kkdyA" type="UseCase" name="Use Case Diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_7HVFwV0xEemwgZvQ_kkdyA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_7HVFwl0xEemwgZvQ_kkdyA"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_7HVFw10xEemwgZvQ_kkdyA" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+      <owner href="papirusPrueba.uml#_68tKIF0xEemwgZvQ_kkdyA"/>
+    </styles>
+    <element href="papirusPrueba.uml#_68tKIF0xEemwgZvQ_kkdyA"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_7KfugF0xEemwgZvQ_kkdyA" type="PapyrusUMLActivityDiagram" name="Activity Diagram" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_7KfugV0xEemwgZvQ_kkdyA" type="Activity_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_7Kfugl0xEemwgZvQ_kkdyA" type="Activity_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_7Kfug10xEemwgZvQ_kkdyA" type="Activity_KeywordLabel"/>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_7KfuhF0xEemwgZvQ_kkdyA" type="Activity_ParameterCompartment">
+        <styles xsi:type="notation:SortingStyle" xmi:id="_7KfuhV0xEemwgZvQ_kkdyA"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_7Kfuhl0xEemwgZvQ_kkdyA"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7Kfuh10xEemwgZvQ_kkdyA"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_7KfuiF0xEemwgZvQ_kkdyA" type="Activity_PreconditionCompartment">
+        <styles xsi:type="notation:SortingStyle" xmi:id="_7KfuiV0xEemwgZvQ_kkdyA"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_7Kfuil0xEemwgZvQ_kkdyA"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7Kfui10xEemwgZvQ_kkdyA"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_7KfujF0xEemwgZvQ_kkdyA" type="Activity_PostconditionCompartment">
+        <styles xsi:type="notation:SortingStyle" xmi:id="_7KfujV0xEemwgZvQ_kkdyA"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_7Kfujl0xEemwgZvQ_kkdyA"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7Kfuj10xEemwgZvQ_kkdyA"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_7KfukF0xEemwgZvQ_kkdyA" type="Activity_ActivityNodeCompartment">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7KfukV0xEemwgZvQ_kkdyA"/>
+      </children>
+      <element href="papirusPrueba.uml#_7IpUYF0xEemwgZvQ_kkdyA"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7Kfukl0xEemwgZvQ_kkdyA"/>
+    </children>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_7Kfuk10xEemwgZvQ_kkdyA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_7KfulF0xEemwgZvQ_kkdyA"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_7KfulV0xEemwgZvQ_kkdyA" diagramKindId="org.eclipse.papyrus.uml.diagram.activity">
+      <owner href="papirusPrueba.uml#_68tKIF0xEemwgZvQ_kkdyA"/>
+    </styles>
+    <element href="papirusPrueba.uml#_7IpUYF0xEemwgZvQ_kkdyA"/>
+  </notation:Diagram>
+  <nattable:Table xmi:id="_7KtJ4F0xEemwgZvQ_kkdyA" name="Relationship Generic Matrix" currentRowAxisProvider="_7KtJ410xEemwgZvQ_kkdyA" currentColumnAxisProvider="_7KtJ4l0xEemwgZvQ_kkdyA" tableKindId="org.eclipse.papyrus.uml.table.matrix">
+    <eAnnotations xmi:id="_7KwNMF0xEemwgZvQ_kkdyA" source="http://www.eclipse.org/papyrus/infra/nattable/version">
+      <details xmi:id="_7KwNMV0xEemwgZvQ_kkdyA" key="version" value="1.3.0"/>
+    </eAnnotations>
+    <styles xsi:type="nattablestyle:IntListValueStyle" xmi:id="_7KtJ4V0xEemwgZvQ_kkdyA" name="hiddenCategoriesByDepth">
+      <intListValue>1</intListValue>
+    </styles>
+    <context href="papirusPrueba.uml#_68tKIF0xEemwgZvQ_kkdyA"/>
+    <owner href="papirusPrueba.uml#_68tKIF0xEemwgZvQ_kkdyA"/>
+    <tableConfiguration href="platform:/plugin/org.eclipse.papyrus.uml.nattable.matrix/configs/generic_matrix_of_relationships.nattableconfiguration#UMLGenericMatrixOfRelationships_XMI_ID"/>
+    <columnAxisProvidersHistory xsi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_7KtJ4l0xEemwgZvQ_kkdyA" description="This axis provider manages the columns, according to the wanted hierarchy" name="HierarchicalColumnsAxisManager" disconnectSlave="true"/>
+    <rowAxisProvidersHistory xsi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_7KtJ410xEemwgZvQ_kkdyA" description="This axis provider manages the rows, according to the wanted hierarchy" name="HierarchicalRowAxisManager" disconnectSlave="true"/>
+    <ownedCellEditorConfigurations xsi:type="nattablecelleditor:GenericRelationshipMatrixCellEditorConfiguration" xmi:id="_7Ktw8F0xEemwgZvQ_kkdyA" cellEditorId="GenericRelationshipMatrixEditorConfiguration"/>
+  </nattable:Table>
+  <notation:Diagram xmi:id="_7LWDEF0xEemwgZvQ_kkdyA" type="PapyrusUMLSequenceDiagram" name="Sequence Diagram" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_7LWDEV0xEemwgZvQ_kkdyA" type="Interaction_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_7LWDEl0xEemwgZvQ_kkdyA" type="Interaction_NameLabel"/>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_7LWDE10xEemwgZvQ_kkdyA" type="Interaction_SubfragmentCompartment">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7LWDFF0xEemwgZvQ_kkdyA"/>
+      </children>
+      <element href="papirusPrueba.uml#_7LDIIF0xEemwgZvQ_kkdyA"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7LWDFV0xEemwgZvQ_kkdyA"/>
+    </children>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_7LWDFl0xEemwgZvQ_kkdyA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_7LWDF10xEemwgZvQ_kkdyA"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_7LWDGF0xEemwgZvQ_kkdyA" diagramKindId="org.eclipse.papyrus.uml.diagram.sequence">
+      <owner href="papirusPrueba.uml#_68tKIF0xEemwgZvQ_kkdyA"/>
+    </styles>
+    <element href="papirusPrueba.uml#_7LDIIF0xEemwgZvQ_kkdyA"/>
+  </notation:Diagram>
+</xmi:XMI>

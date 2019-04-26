@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="D:\opt\server\installa" key="defaultDestinationPath"/>
+	<item value="D:\opt\server\" key="defaultDialogPath"/>
+	<item value="false" key="deleteOnExit"/>
+	<section name="downloadRuntimeSection">
+	</section>
+</section>
